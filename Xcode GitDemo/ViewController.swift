@@ -14,7 +14,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print(message)
         view.backgroundColor = .red
-        // Github Change
     }
 
 
