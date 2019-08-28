@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print(message)
-        view.backgroundColor = .black
+        view.backgroundColor = .red
     }
 
 
